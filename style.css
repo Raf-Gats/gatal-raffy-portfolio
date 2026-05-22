@@ -474,6 +474,7 @@ footer {
 
 .footer_section .footer_logo a img {
     max-width: 55px;
+    border-radius: 5px;
 }
 
 .footer_section .footer_logo a h2 {
